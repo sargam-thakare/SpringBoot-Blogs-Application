@@ -9,7 +9,7 @@
 		<version>2.7.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codewithdurgesh.blog</groupId>
+	<groupId>com.blogapp.blog</groupId>
 	<artifactId>blog-app-apis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>blog-app-apis</name>
@@ -114,7 +114,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.codewithdurgesh.blog.BlogAppApisApplication</mainClass>
+					<mainClass>com.blogapp.blog.BlogAppApisApplication</mainClass>
 					<layout>JAR</layout>
 				</configuration>
 				<executions>
