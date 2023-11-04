@@ -19,7 +19,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<start-class>com.codewithdurgesh.blog.BlogAppApisApplication</start-class>
+		<start-class>com.blogapp.blog.BlogAppApisApplication</start-class>
 
 	</properties>
 	<dependencies>
